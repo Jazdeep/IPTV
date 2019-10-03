@@ -1,0 +1,563 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport HD" tvg-logo="" group-title="Bein",Bein Sport HD
+http://188.72.4.230:8000/mytv/My1p@9090/126
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports HD1" tvg-logo="" group-title="Bein",Bein Sports HD1
+http://188.72.4.230:8000/mytv/My1p@9090/124
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports HD2" tvg-logo="" group-title="Bein",Bein Sports HD2
+http://188.72.4.230:8000/mytv/My1p@9090/123
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports HD3" tvg-logo="" group-title="Bein",Bein Sports HD3
+http://188.72.4.230:8000/mytv/My1p@9090/122
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports HD4" tvg-logo="" group-title="Bein",Bein Sports HD4
+http://188.72.4.230:8000/mytv/My1p@9090/121
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports HD5" tvg-logo="" group-title="Bein",Bein Sports HD5
+http://188.72.4.230:8000/mytv/My1p@9090/120
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports HD6" tvg-logo="" group-title="Bein",Bein Sports HD6
+http://188.72.4.230:8000/mytv/My1p@9090/119
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports HD7" tvg-logo="" group-title="Bein",Bein Sports HD7
+http://188.72.4.230:8000/mytv/My1p@9090/118
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports HD8" tvg-logo="" group-title="Bein",Bein Sports HD8
+http://188.72.4.230:8000/mytv/My1p@9090/117
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports HD9" tvg-logo="" group-title="Bein",Bein Sports HD9
+http://188.72.4.230:8000/mytv/My1p@9090/116
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports HD10" tvg-logo="" group-title="Bein",Bein Sports HD10
+http://188.72.4.230:8000/mytv/My1p@9090/115
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport HD11 EN" tvg-logo="" group-title="Bein",Bein Sport HD11 EN
+http://188.72.4.230:8000/mytv/My1p@9090/114
+#EXTINF:-1 tvg-id="" tvg-name="Bein Movies HD2" tvg-logo="" group-title="Bein",Bein Movies HD2
+http://188.72.4.230:8000/mytv/My1p@9090/106
+#EXTINF:-1 tvg-id="" tvg-name="Bein Movies HD3" tvg-logo="" group-title="Bein",Bein Movies HD3
+http://188.72.4.230:8000/mytv/My1p@9090/105
+#EXTINF:-1 tvg-id="" tvg-name="Bein Movies HD4" tvg-logo="" group-title="Bein",Bein Movies HD4
+http://188.72.4.230:8000/mytv/My1p@9090/104
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport HD12 EN" tvg-logo="" group-title="Bein",Bein Sport HD12 EN
+http://188.72.4.230:8000/mytv/My1p@9090/113
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport HD13" tvg-logo="" group-title="Bein",Bein Sport HD13
+http://188.72.4.230:8000/mytv/My1p@9090/112
+#EXTINF:-1 tvg-id="" tvg-name="Bein BBC Earth HD" tvg-logo="" group-title="Bein",Bein BBC Earth HD
+http://188.72.4.230:8000/mytv/My1p@9090/381
+#EXTINF:-1 tvg-id="" tvg-name="Bein Cartoon Network HD" tvg-logo="" group-title="Bein",Bein Cartoon Network HD
+http://188.72.4.230:8000/mytv/My1p@9090/84
+#EXTINF:-1 tvg-id="" tvg-name="Bein Discovery Kids HD" tvg-logo="" group-title="Bein",Bein Discovery Kids HD
+http://188.72.4.230:8000/mytv/My1p@9090/96
+#EXTINF:-1 tvg-id="" tvg-name="Bein Discovery Life HD" tvg-logo="" group-title="Bein",Bein Discovery Life HD
+http://188.72.4.230:8000/mytv/My1p@9090/94
+#EXTINF:-1 tvg-id="" tvg-name="Bein Discovery Max HD" tvg-logo="" group-title="Bein",Bein Discovery Max HD
+http://188.72.4.230:8000/mytv/My1p@9090/93
+#EXTINF:-1 tvg-id="" tvg-name="Bein Discovery Turbo Xtra" tvg-logo="" group-title="Bein",Bein Discovery Turbo Xtra
+http://188.72.4.230:8000/mytv/My1p@9090/95
+#EXTINF:-1 tvg-id="" tvg-name="Bein Fatafeat" tvg-logo="" group-title="Bein",Bein Fatafeat
+http://188.72.4.230:8000/mytv/My1p@9090/92
+#EXTINF:-1 tvg-id="" tvg-name="Bein Fine Living HD" tvg-logo="" group-title="Bein",Bein Fine Living HD
+http://188.72.4.230:8000/mytv/My1p@9090/382
+#EXTINF:-1 tvg-id="" tvg-name="Bein Food Network HD" tvg-logo="" group-title="Bein",Bein Food Network HD
+http://188.72.4.230:8000/mytv/My1p@9090/79
+#EXTINF:-1 tvg-id="" tvg-name="Bein Gourmet HD" tvg-logo="" group-title="Bein",Bein Gourmet HD
+http://188.72.4.230:8000/mytv/My1p@9090/91
+#EXTINF:-1 tvg-id="" tvg-name="Bein Nat Geo HD" tvg-logo="" group-title="Bein",Bein Nat Geo HD
+http://188.72.4.230:8000/mytv/My1p@9090/86
+#EXTINF:-1 tvg-id="" tvg-name="Bein Nat People" tvg-logo="" group-title="Bein",Bein Nat People
+http://188.72.4.230:8000/mytv/My1p@9090/88
+#EXTINF:-1 tvg-id="" tvg-name="Bein Nat Wild" tvg-logo="" group-title="Bein",Bein Nat Wild
+http://188.72.4.230:8000/mytv/My1p@9090/87
+#EXTINF:-1 tvg-id="" tvg-name="Bein Series 1 HD" tvg-logo="" group-title="Bein",Bein Series 1 HD
+http://188.72.4.230:8000/mytv/My1p@9090/129
+#EXTINF:-1 tvg-id="" tvg-name="Bein Series 2 HD" tvg-logo="" group-title="Bein",Bein Series 2 HD
+http://188.72.4.230:8000/mytv/My1p@9090/128
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport News HD" tvg-logo="" group-title="Bein",Bein Sport News HD
+http://188.72.4.230:8000/mytv/My1p@9090/125
+#EXTINF:-1 tvg-id="" tvg-name="Bein Travel HD" tvg-logo="" group-title="Bein",Bein Travel HD
+http://188.72.4.230:8000/mytv/My1p@9090/90
+#EXTINF:-1 tvg-id="" tvg-name="OSN Series Comedy HD" tvg-logo="" group-title="OSN",OSN Series Comedy HD
+http://188.72.4.230:8000/mytv/My1p@9090/51
+#EXTINF:-1 tvg-id="" tvg-name="OSN Series First HD" tvg-logo="" group-title="OSN",OSN Series First HD
+http://188.72.4.230:8000/mytv/My1p@9090/50
+#EXTINF:-1 tvg-id="" tvg-name="OSN Movies Disney HD" tvg-logo="" group-title="OSN",OSN Movies Disney HD
+http://188.72.4.230:8000/mytv/My1p@9090/60
+#EXTINF:-1 tvg-id="" tvg-name="OSN Movies First HD" tvg-logo="" group-title="OSN",OSN Movies First HD
+http://188.72.4.230:8000/mytv/My1p@9090/59
+#EXTINF:-1 tvg-id="" tvg-name="OSN Movies HD" tvg-logo="" group-title="OSN",OSN Movies HD
+http://188.72.4.230:8000/mytv/My1p@9090/58
+#EXTINF:-1 tvg-id="" tvg-name="OSN Action HD" tvg-logo="" group-title="OSN",OSN Action HD
+http://188.72.4.230:8000/mytv/My1p@9090/61
+#EXTINF:-1 tvg-id="" tvg-name="OSN Kids HD" tvg-logo="" group-title="OSN",OSN Kids HD
+http://188.72.4.230:8000/mytv/My1p@9090/57
+#EXTINF:-1 tvg-id="" tvg-name="OSN Enigma HD" tvg-logo="" group-title="OSN",OSN Enigma HD
+http://188.72.4.230:8000/mytv/My1p@9090/56
+#EXTINF:-1 tvg-id="" tvg-name="OSN Comedy Central" tvg-logo="" group-title="OSN",OSN Comedy Central
+http://188.72.4.230:8000/mytv/My1p@9090/41
+#EXTINF:-1 tvg-id="" tvg-name="My- MBC1 HD" tvg-logo="" group-title="MyHD",My- MBC1 HD
+http://188.72.4.230:8000/mytv/My1p@9090/40
+#EXTINF:-1 tvg-id="" tvg-name="My- MBC2 HD" tvg-logo="" group-title="MyHD",My- MBC2 HD
+http://188.72.4.230:8000/mytv/My1p@9090/39
+#EXTINF:-1 tvg-id="" tvg-name="My- MBC3 HD" tvg-logo="" group-title="MyHD",My- MBC3 HD
+http://188.72.4.230:8000/mytv/My1p@9090/38
+#EXTINF:-1 tvg-id="" tvg-name="My- MBC4 HD" tvg-logo="" group-title="MyHD",My- MBC4 HD
+http://188.72.4.230:8000/mytv/My1p@9090/37
+#EXTINF:-1 tvg-id="" tvg-name="My- MBC Drama  HD" tvg-logo="" group-title="MyHD",My- MBC Drama  HD
+http://188.72.4.230:8000/mytv/My1p@9090/31
+#EXTINF:-1 tvg-id="" tvg-name="My- MBC Drama HD" tvg-logo="" group-title="MyHD",My- MBC Drama HD
+http://188.72.4.230:8000/mytv/My1p@9090/32
+#EXTINF:-1 tvg-id="" tvg-name="My- MBC MAX HD" tvg-logo="" group-title="MyHD",My- MBC MAX HD
+http://188.72.4.230:8000/mytv/My1p@9090/29
+#EXTINF:-1 tvg-id="" tvg-name="My- MBC Bollywood HD" tvg-logo="" group-title="MyHD",My- MBC Bollywood HD
+http://188.72.4.230:8000/mytv/My1p@9090/34
+#EXTINF:-1 tvg-id="" tvg-name="My- MBC Variety HD" tvg-logo="" group-title="MyHD",My- MBC Variety HD
+http://188.72.4.230:8000/mytv/My1p@9090/33
+#EXTINF:-1 tvg-id="" tvg-name="My- MBC  Drama HD" tvg-logo="" group-title="MyHD",My- MBC  Drama HD
+http://188.72.4.230:8000/mytv/My1p@9090/36
+#EXTINF:-1 tvg-id="" tvg-name="My- MBC Action HD" tvg-logo="" group-title="MyHD",My- MBC Action HD
+http://188.72.4.230:8000/mytv/My1p@9090/35
+#EXTINF:-1 tvg-id="" tvg-name="My- MBC Masir2" tvg-logo="" group-title="MyHD",My- MBC Masir2
+http://188.72.4.230:8000/mytv/My1p@9090/30
+#EXTINF:-1 tvg-id="" tvg-name="My- Fox Crime HD" tvg-logo="" group-title="MyHD",My- Fox Crime HD
+http://188.72.4.230:8000/mytv/My1p@9090/18
+#EXTINF:-1 tvg-id="" tvg-name="Ar- MBC1 HD" tvg-logo="" group-title="Arabic",Ar- MBC1 HD
+http://188.72.4.230:8000/mytv/My1p@9090/311
+#EXTINF:-1 tvg-id="" tvg-name="Ar- MBC2 HD" tvg-logo="" group-title="Arabic",Ar- MBC2 HD
+http://188.72.4.230:8000/mytv/My1p@9090/310
+#EXTINF:-1 tvg-id="" tvg-name="Ar- MBC3 HD" tvg-logo="" group-title="Arabic",Ar- MBC3 HD
+http://188.72.4.230:8000/mytv/My1p@9090/309
+#EXTINF:-1 tvg-id="" tvg-name="Ar- MBC4 HD" tvg-logo="" group-title="Arabic",Ar- MBC4 HD
+http://188.72.4.230:8000/mytv/My1p@9090/308
+#EXTINF:-1 tvg-id="" tvg-name="Ar- MBC Max HD" tvg-logo="" group-title="Arabic",Ar- MBC Max HD
+http://188.72.4.230:8000/mytv/My1p@9090/304
+#EXTINF:-1 tvg-id="" tvg-name="Ar- MBC Action HD" tvg-logo="" group-title="Arabic",Ar- MBC Action HD
+http://188.72.4.230:8000/mytv/My1p@9090/307
+#EXTINF:-1 tvg-id="" tvg-name="Ar- MBC Bollywood HD" tvg-logo="" group-title="Arabic",Ar- MBC Bollywood HD
+http://188.72.4.230:8000/mytv/My1p@9090/303
+#EXTINF:-1 tvg-id="" tvg-name="Ar- MBC Drama  HD" tvg-logo="" group-title="Arabic",Ar- MBC Drama  HD
+http://188.72.4.230:8000/mytv/My1p@9090/305
+#EXTINF:-1 tvg-id="" tvg-name="Ar- MBC Drama HD" tvg-logo="" group-title="Arabic",Ar- MBC Drama HD
+http://188.72.4.230:8000/mytv/My1p@9090/306
+#EXTINF:-1 tvg-id="" tvg-name="Ar- MBC Iraq HD" tvg-logo="" group-title="Arabic",Ar- MBC Iraq HD
+http://188.72.4.230:8000/mytv/My1p@9090/302
+#EXTINF:-1 tvg-id="" tvg-name="Ar- MBC Masir 2" tvg-logo="" group-title="Arabic",Ar- MBC Masir 2
+http://188.72.4.230:8000/mytv/My1p@9090/300
+#EXTINF:-1 tvg-id="" tvg-name="Ar- MBC Masr" tvg-logo="" group-title="Arabic",Ar- MBC Masr
+http://188.72.4.230:8000/mytv/My1p@9090/301
+#EXTINF:-1 tvg-id="" tvg-name="Ar- AlJazeera HD" tvg-logo="" group-title="Arabic",Ar- AlJazeera HD
+http://188.72.4.230:8000/mytv/My1p@9090/354
+#EXTINF:-1 tvg-id="" tvg-name="Ar- Aljazeera Documents HD" tvg-logo="" group-title="Arabic",Ar- Aljazeera Documents HD
+http://188.72.4.230:8000/mytv/My1p@9090/351
+#EXTINF:-1 tvg-id="" tvg-name="Ar- Aljazeera English" tvg-logo="" group-title="Arabic",Ar- Aljazeera English
+http://188.72.4.230:8000/mytv/My1p@9090/353
+#EXTINF:-1 tvg-id="" tvg-name="Ar- Al Hadath HD" tvg-logo="" group-title="Arabic",Ar- Al Hadath HD
+http://188.72.4.230:8000/mytv/My1p@9090/298
+#EXTINF:-1 tvg-id="" tvg-name="Ar- Altaghier" tvg-logo="" group-title="Arabic",Ar- Altaghier
+http://188.72.4.230:8000/mytv/My1p@9090/376
+#EXTINF:-1 tvg-id="" tvg-name="Ar- BBC Arabic" tvg-logo="" group-title="Arabic",Ar- BBC Arabic
+http://188.72.4.230:8000/mytv/My1p@9090/348
+#EXTINF:-1 tvg-id="" tvg-name="Ar- BBC World HD" tvg-logo="" group-title="Arabic",Ar- BBC World HD
+http://188.72.4.230:8000/mytv/My1p@9090/347
+#EXTINF:-1 tvg-id="" tvg-name="Ar- B4U Plus" tvg-logo="" group-title="Arabic",Ar- B4U Plus
+http://188.72.4.230:8000/mytv/My1p@9090/363
+#EXTINF:-1 tvg-id="" tvg-name="Ar- Abu Dhabi Al Emarat" tvg-logo="" group-title="Arabic",Ar- Abu Dhabi Al Emarat
+http://188.72.4.230:8000/mytv/My1p@9090/357
+#EXTINF:-1 tvg-id="" tvg-name="Ar- Abu Dhabi Drama HD" tvg-logo="" group-title="Arabic",Ar- Abu Dhabi Drama HD
+http://188.72.4.230:8000/mytv/My1p@9090/356
+#EXTINF:-1 tvg-id="" tvg-name="Ar- AD Drama HD" tvg-logo="" group-title="Arabic",Ar- AD Drama HD
+http://188.72.4.230:8000/mytv/My1p@9090/358
+#EXTINF:-1 tvg-id="" tvg-name="Ar- AD Sport1 HD" tvg-logo="" group-title="Arabic",Ar- AD Sport1 HD
+http://188.72.4.230:8000/mytv/My1p@9090/336
+#EXTINF:-1 tvg-id="" tvg-name="Ar- AD Sport2 HD" tvg-logo="" group-title="Arabic",Ar- AD Sport2 HD
+http://188.72.4.230:8000/mytv/My1p@9090/335
+#EXTINF:-1 tvg-id="" tvg-name="Ar- AD Sport3 HD" tvg-logo="" group-title="Arabic",Ar- AD Sport3 HD
+http://188.72.4.230:8000/mytv/My1p@9090/334
+#EXTINF:-1 tvg-id="" tvg-name="Ar- AD Sport4 HD" tvg-logo="" group-title="Arabic",Ar- AD Sport4 HD
+http://188.72.4.230:8000/mytv/My1p@9090/333
+#EXTINF:-1 tvg-id="" tvg-name="Ar- AD Sport5 HD" tvg-logo="" group-title="Arabic",Ar- AD Sport5 HD
+http://188.72.4.230:8000/mytv/My1p@9090/332
+#EXTINF:-1 tvg-id="" tvg-name="Ar- AD Sport6 HD" tvg-logo="" group-title="Arabic",Ar- AD Sport6 HD
+http://188.72.4.230:8000/mytv/My1p@9090/331
+#EXTINF:-1 tvg-id="" tvg-name="Ar- Al Diyar" tvg-logo="" group-title="Arabic",Ar- Al Diyar
+http://188.72.4.230:8000/mytv/My1p@9090/379
+#EXTINF:-1 tvg-id="" tvg-name="Ar- Al Ghad Al Araby HD" tvg-logo="" group-title="Arabic",Ar- Al Ghad Al Araby HD
+http://188.72.4.230:8000/mytv/My1p@9090/349
+#EXTINF:-1 tvg-id="" tvg-name="Ar- Aljazeera Mubasher" tvg-logo="" group-title="Arabic",Ar- Aljazeera Mubasher
+http://188.72.4.230:8000/mytv/My1p@9090/352
+#EXTINF:-1 tvg-id="" tvg-name="Ar- Alsharqiya HD" tvg-logo="" group-title="Arabic",Ar- Alsharqiya HD
+http://188.72.4.230:8000/mytv/My1p@9090/378
+#EXTINF:-1 tvg-id="" tvg-name="Ar- Alwadi TV" tvg-logo="" group-title="Arabic",Ar- Alwadi TV
+http://188.72.4.230:8000/mytv/My1p@9090/375
+#EXTINF:-1 tvg-id="" tvg-name="Ar- Alyaum TV" tvg-logo="" group-title="Arabic",Ar- Alyaum TV
+http://188.72.4.230:8000/mytv/My1p@9090/342
+#EXTINF:-1 tvg-id="" tvg-name="Ar- B4U Aflam" tvg-logo="" group-title="Arabic",Ar- B4U Aflam
+http://188.72.4.230:8000/mytv/My1p@9090/362
+#EXTINF:-1 tvg-id="" tvg-name="Ar- Baghdad HD" tvg-logo="" group-title="Arabic",Ar- Baghdad HD
+http://188.72.4.230:8000/mytv/My1p@9090/377
+#EXTINF:-1 tvg-id="" tvg-name="Ar- CBC" tvg-logo="" group-title="Arabic",Ar- CBC
+http://188.72.4.230:8000/mytv/My1p@9090/373
+#EXTINF:-1 tvg-id="" tvg-name="Ar- CBC Drama" tvg-logo="" group-title="Arabic",Ar- CBC Drama
+http://188.72.4.230:8000/mytv/My1p@9090/372
+#EXTINF:-1 tvg-id="" tvg-name="Ar- CBC eXtra" tvg-logo="" group-title="Arabic",Ar- CBC eXtra
+http://188.72.4.230:8000/mytv/My1p@9090/370
+#EXTINF:-1 tvg-id="" tvg-name="Ar- CBC Sofra" tvg-logo="" group-title="Arabic",Ar- CBC Sofra
+http://188.72.4.230:8000/mytv/My1p@9090/371
+#EXTINF:-1 tvg-id="" tvg-name="Ar- CNN HD" tvg-logo="" group-title="Arabic",Ar- CNN HD
+http://188.72.4.230:8000/mytv/My1p@9090/346
+#EXTINF:-1 tvg-id="" tvg-name="Ar- DUBAI ONE" tvg-logo="" group-title="Arabic",Ar- DUBAI ONE
+http://188.72.4.230:8000/mytv/My1p@9090/361
+#EXTINF:-1 tvg-id="" tvg-name="Ar- Dubai Racing 1 HD" tvg-logo="" group-title="Arabic",Ar- Dubai Racing 1 HD
+http://188.72.4.230:8000/mytv/My1p@9090/327
+#EXTINF:-1 tvg-id="" tvg-name="Ar- Dubai Racing 2 HD" tvg-logo="" group-title="Arabic",Ar- Dubai Racing 2 HD
+http://188.72.4.230:8000/mytv/My1p@9090/326
+#EXTINF:-1 tvg-id="" tvg-name="Ar- Dubai Racing 3 HD" tvg-logo="" group-title="Arabic",Ar- Dubai Racing 3 HD
+http://188.72.4.230:8000/mytv/My1p@9090/325
+#EXTINF:-1 tvg-id="" tvg-name="Ar- Dubai Sport 1 HD" tvg-logo="" group-title="Arabic",Ar- Dubai Sport 1 HD
+http://188.72.4.230:8000/mytv/My1p@9090/330
+#EXTINF:-1 tvg-id="" tvg-name="Ar- Dubai Sport 2 HD" tvg-logo="" group-title="Arabic",Ar- Dubai Sport 2 HD
+http://188.72.4.230:8000/mytv/My1p@9090/329
+#EXTINF:-1 tvg-id="" tvg-name="Ar- Dubai Sport 3 HD" tvg-logo="" group-title="Arabic",Ar- Dubai Sport 3 HD
+http://188.72.4.230:8000/mytv/My1p@9090/328
+#EXTINF:-1 tvg-id="" tvg-name="Ar- DUBAI TV" tvg-logo="" group-title="Arabic",Ar- DUBAI TV
+http://188.72.4.230:8000/mytv/My1p@9090/360
+#EXTINF:-1 tvg-id="" tvg-name="Ar- DW HD" tvg-logo="" group-title="Arabic",Ar- DW HD
+http://188.72.4.230:8000/mytv/My1p@9090/343
+#EXTINF:-1 tvg-id="" tvg-name="Ar- Future TV" tvg-logo="" group-title="Arabic",Ar- Future TV
+http://188.72.4.230:8000/mytv/My1p@9090/314
+#EXTINF:-1 tvg-id="" tvg-name="Ar- Hurra HD" tvg-logo="" group-title="Arabic",Ar- Hurra HD
+http://188.72.4.230:8000/mytv/My1p@9090/344
+#EXTINF:-1 tvg-id="" tvg-name="Ar- Iraq Future TV" tvg-logo="" group-title="Arabic",Ar- Iraq Future TV
+http://188.72.4.230:8000/mytv/My1p@9090/380
+#EXTINF:-1 tvg-id="" tvg-name="Ar- KSA Sport  1 HD" tvg-logo="" group-title="Arabic",Ar- KSA Sport  1 HD
+http://188.72.4.230:8000/mytv/My1p@9090/338
+#EXTINF:-1 tvg-id="" tvg-name="Ar- KSA Sport  2 HD" tvg-logo="" group-title="Arabic",Ar- KSA Sport  2 HD
+http://188.72.4.230:8000/mytv/My1p@9090/337
+#EXTINF:-1 tvg-id="" tvg-name="Ar- KSA Sport 1 HD" tvg-logo="" group-title="Arabic",Ar- KSA Sport 1 HD
+http://188.72.4.230:8000/mytv/My1p@9090/340
+#EXTINF:-1 tvg-id="" tvg-name="Ar- KSA Sport 2 HD" tvg-logo="" group-title="Arabic",Ar- KSA Sport 2 HD
+http://188.72.4.230:8000/mytv/My1p@9090/339
+#EXTINF:-1 tvg-id="" tvg-name="Ar- LBC HD" tvg-logo="" group-title="Arabic",Ar- LBC HD
+http://188.72.4.230:8000/mytv/My1p@9090/318
+#EXTINF:-1 tvg-id="" tvg-name="Ar- Melody Classic" tvg-logo="" group-title="Arabic",Ar- Melody Classic
+http://188.72.4.230:8000/mytv/My1p@9090/369
+#EXTINF:-1 tvg-id="" tvg-name="Ar- MTV Lebanon HD" tvg-logo="" group-title="Arabic",Ar- MTV Lebanon HD
+http://188.72.4.230:8000/mytv/My1p@9090/317
+#EXTINF:-1 tvg-id="" tvg-name="Ar- Nat Geo AD HD" tvg-logo="" group-title="Arabic",Ar- Nat Geo AD HD
+http://188.72.4.230:8000/mytv/My1p@9090/359
+#EXTINF:-1 tvg-id="" tvg-name="Ar- Nat Geo Kids" tvg-logo="" group-title="Arabic",Ar- Nat Geo Kids
+http://188.72.4.230:8000/mytv/My1p@9090/355
+#EXTINF:-1 tvg-id="" tvg-name="Ar- Nile Cinema" tvg-logo="" group-title="Arabic",Ar- Nile Cinema
+http://188.72.4.230:8000/mytv/My1p@9090/368
+#EXTINF:-1 tvg-id="" tvg-name="Ar- Nile Comedy" tvg-logo="" group-title="Arabic",Ar- Nile Comedy
+http://188.72.4.230:8000/mytv/My1p@9090/367
+#EXTINF:-1 tvg-id="" tvg-name="Ar- Nile Culture" tvg-logo="" group-title="Arabic",Ar- Nile Culture
+http://188.72.4.230:8000/mytv/My1p@9090/366
+#EXTINF:-1 tvg-id="" tvg-name="Ar- ON Drama" tvg-logo="" group-title="Arabic",Ar- ON Drama
+http://188.72.4.230:8000/mytv/My1p@9090/374
+#EXTINF:-1 tvg-id="" tvg-name="Ar- One Lebonan TV" tvg-logo="" group-title="Arabic",Ar- One Lebonan TV
+http://188.72.4.230:8000/mytv/My1p@9090/316
+#EXTINF:-1 tvg-id="" tvg-name="Ar- Orient News" tvg-logo="" group-title="Arabic",Ar- Orient News
+http://188.72.4.230:8000/mytv/My1p@9090/312
+#EXTINF:-1 tvg-id="" tvg-name="Ar- OTV Lebonan" tvg-logo="" group-title="Arabic",Ar- OTV Lebonan
+http://188.72.4.230:8000/mytv/My1p@9090/315
+#EXTINF:-1 tvg-id="" tvg-name="Ar- Press TV HD" tvg-logo="" group-title="Arabic",Ar- Press TV HD
+http://188.72.4.230:8000/mytv/My1p@9090/341
+#EXTINF:-1 tvg-id="" tvg-name="Ar- Rotana Aflam HD" tvg-logo="" group-title="Arabic",Ar- Rotana Aflam HD
+http://188.72.4.230:8000/mytv/My1p@9090/321
+#EXTINF:-1 tvg-id="" tvg-name="Ar- Rotana Cinema KSA HD" tvg-logo="" group-title="Arabic",Ar- Rotana Cinema KSA HD
+http://188.72.4.230:8000/mytv/My1p@9090/320
+#EXTINF:-1 tvg-id="" tvg-name="Ar- Rotana Classic HD" tvg-logo="" group-title="Arabic",Ar- Rotana Classic HD
+http://188.72.4.230:8000/mytv/My1p@9090/319
+#EXTINF:-1 tvg-id="" tvg-name="Ar- Rotana Drama HD" tvg-logo="" group-title="Arabic",Ar- Rotana Drama HD
+http://188.72.4.230:8000/mytv/My1p@9090/323
+#EXTINF:-1 tvg-id="" tvg-name="Ar- Rotana Khalijiah HD" tvg-logo="" group-title="Arabic",Ar- Rotana Khalijiah HD
+http://188.72.4.230:8000/mytv/My1p@9090/322
+#EXTINF:-1 tvg-id="" tvg-name="Ar- Rotana Music HD" tvg-logo="" group-title="Arabic",Ar- Rotana Music HD
+http://188.72.4.230:8000/mytv/My1p@9090/324
+#EXTINF:-1 tvg-id="" tvg-name="Ar- RT Arabic HD" tvg-logo="" group-title="Arabic",Ar- RT Arabic HD
+http://188.72.4.230:8000/mytv/My1p@9090/345
+#EXTINF:-1 tvg-id="" tvg-name="Ar- Sky News Arabia HD" tvg-logo="" group-title="Arabic",Ar- Sky News Arabia HD
+http://188.72.4.230:8000/mytv/My1p@9090/350
+#EXTINF:-1 tvg-id="" tvg-name="Ar- Syria News TV" tvg-logo="" group-title="Arabic",Ar- Syria News TV
+http://188.72.4.230:8000/mytv/My1p@9090/313
+#EXTINF:-1 tvg-id="" tvg-name="Ar- Zee Aflam" tvg-logo="" group-title="Arabic",Ar- Zee Aflam
+http://188.72.4.230:8000/mytv/My1p@9090/365
+#EXTINF:-1 tvg-id="" tvg-name="Ar- ZEE Alwan" tvg-logo="" group-title="Arabic",Ar- ZEE Alwan
+http://188.72.4.230:8000/mytv/My1p@9090/364
+#EXTINF:-1 tvg-id="" tvg-name="K- Rudaw TV HD" tvg-logo="" group-title="Kurdish",K- Rudaw TV HD
+http://188.72.4.230:8000/mytv/My1p@9090/297
+#EXTINF:-1 tvg-id="" tvg-name="K- K24 HD" tvg-logo="" group-title="Kurdish",K- K24 HD
+http://188.72.4.230:8000/mytv/My1p@9090/296
+#EXTINF:-1 tvg-id="" tvg-name="K- KNN TV" tvg-logo="" group-title="Kurdish",K- KNN TV
+http://188.72.4.230:8000/mytv/My1p@9090/295
+#EXTINF:-1 tvg-id="" tvg-name="K- NRT1 HD" tvg-logo="" group-title="Kurdish",K- NRT1 HD
+http://188.72.4.230:8000/mytv/My1p@9090/294
+#EXTINF:-1 tvg-id="" tvg-name="K- NRT2 Kurmanji HD" tvg-logo="" group-title="Kurdish",K- NRT2 Kurmanji HD
+http://188.72.4.230:8000/mytv/My1p@9090/293
+#EXTINF:-1 tvg-id="" tvg-name="K- NRT2 Sorani HD" tvg-logo="" group-title="Kurdish",K- NRT2 Sorani HD
+http://188.72.4.230:8000/mytv/My1p@9090/292
+#EXTINF:-1 tvg-id="" tvg-name="K- NRT3 Kids HD" tvg-logo="" group-title="Kurdish",K- NRT3 Kids HD
+http://188.72.4.230:8000/mytv/My1p@9090/291
+#EXTINF:-1 tvg-id="" tvg-name="K- NRT4 HD" tvg-logo="" group-title="Kurdish",K- NRT4 HD
+http://188.72.4.230:8000/mytv/My1p@9090/290
+#EXTINF:-1 tvg-id="" tvg-name="K- KurdMax HD Sorani" tvg-logo="" group-title="Kurdish",K- KurdMax HD Sorani
+http://188.72.4.230:8000/mytv/My1p@9090/289
+#EXTINF:-1 tvg-id="" tvg-name="K- KurdMax HD Kurmanji" tvg-logo="" group-title="Kurdish",K- KurdMax HD Kurmanji
+http://188.72.4.230:8000/mytv/My1p@9090/288
+#EXTINF:-1 tvg-id="" tvg-name="K- KurdMax Show HD Sorani" tvg-logo="" group-title="Kurdish",K- KurdMax Show HD Sorani
+http://188.72.4.230:8000/mytv/My1p@9090/287
+#EXTINF:-1 tvg-id="" tvg-name="K- Kurdmax Show HD Kurmanji" tvg-logo="" group-title="Kurdish",K- Kurdmax Show HD Kurmanji
+http://188.72.4.230:8000/mytv/My1p@9090/286
+#EXTINF:-1 tvg-id="" tvg-name="K- Kurdmax Pepula" tvg-logo="" group-title="Kurdish",K- Kurdmax Pepula
+http://188.72.4.230:8000/mytv/My1p@9090/285
+#EXTINF:-1 tvg-id="" tvg-name="K- Kurdsat News HD" tvg-logo="" group-title="Kurdish",K- Kurdsat News HD
+http://188.72.4.230:8000/mytv/My1p@9090/281
+#EXTINF:-1 tvg-id="" tvg-name="K- Net TV HD" tvg-logo="" group-title="Kurdish",K- Net TV HD
+http://188.72.4.230:8000/mytv/My1p@9090/284
+#EXTINF:-1 tvg-id="" tvg-name="K- Kurdsat TV HD" tvg-logo="" group-title="Kurdish",K- Kurdsat TV HD
+http://188.72.4.230:8000/mytv/My1p@9090/282
+#EXTINF:-1 tvg-id="" tvg-name="K- Gali Kurdistan TV" tvg-logo="" group-title="Kurdish",K- Gali Kurdistan TV
+http://188.72.4.230:8000/mytv/My1p@9090/283
+#EXTINF:-1 tvg-id="" tvg-name="K- WAAR TV HD" tvg-logo="" group-title="Kurdish",K- WAAR TV HD
+http://188.72.4.230:8000/mytv/My1p@9090/280
+#EXTINF:-1 tvg-id="" tvg-name="K- Zagros TV HD" tvg-logo="" group-title="Kurdish",K- Zagros TV HD
+http://188.72.4.230:8000/mytv/My1p@9090/279
+#EXTINF:-1 tvg-id="" tvg-name="K- Kirkuk TV" tvg-logo="" group-title="Kurdish",K- Kirkuk TV
+http://188.72.4.230:8000/mytv/My1p@9090/278
+#EXTINF:-1 tvg-id="" tvg-name="K- Speda TV HD" tvg-logo="" group-title="Kurdish",K- Speda TV HD
+http://188.72.4.230:8000/mytv/My1p@9090/276
+#EXTINF:-1 tvg-id="" tvg-name="K- Payam TV" tvg-logo="" group-title="Kurdish",K- Payam TV
+http://188.72.4.230:8000/mytv/My1p@9090/277
+#EXTINF:-1 tvg-id="" tvg-name="K- Lalish TV" tvg-logo="" group-title="Kurdish",K- Lalish TV
+http://188.72.4.230:8000/mytv/My1p@9090/275
+#EXTINF:-1 tvg-id="" tvg-name="K- A TV Kurd" tvg-logo="" group-title="Kurdish",K- A TV Kurd
+http://188.72.4.230:8000/mytv/My1p@9090/274
+#EXTINF:-1 tvg-id="" tvg-name="K- AVA Media" tvg-logo="" group-title="Kurdish",K- AVA Media
+http://188.72.4.230:8000/mytv/My1p@9090/273
+#EXTINF:-1 tvg-id="" tvg-name="K- Korek TV" tvg-logo="" group-title="Kurdish",K- Korek TV
+http://188.72.4.230:8000/mytv/My1p@9090/272
+#EXTINF:-1 tvg-id="" tvg-name="K- Kurd Channel" tvg-logo="" group-title="Kurdish",K- Kurd Channel
+http://188.72.4.230:8000/mytv/My1p@9090/271
+#EXTINF:-1 tvg-id="" tvg-name="K- Rojava" tvg-logo="" group-title="Kurdish",K- Rojava
+http://188.72.4.230:8000/mytv/My1p@9090/270
+#EXTINF:-1 tvg-id="" tvg-name="K- TRT Kurdi" tvg-logo="" group-title="Kurdish",K- TRT Kurdi
+http://188.72.4.230:8000/mytv/My1p@9090/269
+#EXTINF:-1 tvg-id="" tvg-name="K- Helhelok TV" tvg-logo="" group-title="Kurdish",K- Helhelok TV
+http://188.72.4.230:8000/mytv/My1p@9090/268
+#EXTINF:-1 tvg-id="" tvg-name="K- Zarok TV" tvg-logo="" group-title="Kurdish",K- Zarok TV
+http://188.72.4.230:8000/mytv/My1p@9090/267
+#EXTINF:-1 tvg-id="" tvg-name="K- Bangawaz" tvg-logo="" group-title="Kurdish",K- Bangawaz
+http://188.72.4.230:8000/mytv/My1p@9090/266
+#EXTINF:-1 tvg-id="" tvg-name="K- Vin Music" tvg-logo="" group-title="Kurdish",K- Vin Music
+http://188.72.4.230:8000/mytv/My1p@9090/265
+#EXTINF:-1 tvg-id="" tvg-name="K- Irib Mahabad" tvg-logo="" group-title="Kurdish",K- Irib Mahabad
+http://188.72.4.230:8000/mytv/My1p@9090/264
+#EXTINF:-1 tvg-id="" tvg-name="K- Jamawar" tvg-logo="" group-title="Kurdish",K- Jamawar
+http://188.72.4.230:8000/mytv/My1p@9090/263
+#EXTINF:-1 tvg-id="" tvg-name="K- Komala" tvg-logo="" group-title="Kurdish",K- Komala
+http://188.72.4.230:8000/mytv/My1p@9090/262
+#EXTINF:-1 tvg-id="" tvg-name="K- Tishk Tv" tvg-logo="" group-title="Kurdish",K- Tishk Tv
+http://188.72.4.230:8000/mytv/My1p@9090/261
+#EXTINF:-1 tvg-id="" tvg-name="Local- NewLine HD" tvg-logo="" group-title="Local-Kurdish",Local- NewLine HD
+http://188.72.4.230:8000/mytv/My1p@9090/238
+#EXTINF:-1 tvg-id="" tvg-name="Local- NewLine2 HD" tvg-logo="" group-title="Local-Kurdish",Local- NewLine2 HD
+http://188.72.4.230:8000/mytv/My1p@9090/237
+#EXTINF:-1 tvg-id="" tvg-name="Local- Astera Movies" tvg-logo="" group-title="Local-Kurdish",Local- Astera Movies
+http://188.72.4.230:8000/mytv/My1p@9090/250
+#EXTINF:-1 tvg-id="" tvg-name="Local- Astera Show HD" tvg-logo="" group-title="Local-Kurdish",Local- Astera Show HD
+http://188.72.4.230:8000/mytv/My1p@9090/251
+#EXTINF:-1 tvg-id="" tvg-name="Local- All Documentary" tvg-logo="" group-title="Local-Kurdish",Local- All Documentary
+http://188.72.4.230:8000/mytv/My1p@9090/245
+#EXTINF:-1 tvg-id="" tvg-name="Local- Aso Sport HD" tvg-logo="" group-title="Local-Kurdish",Local- Aso Sport HD
+http://188.72.4.230:8000/mytv/My1p@9090/227
+#EXTINF:-1 tvg-id="" tvg-name="Local- Astera Sport" tvg-logo="" group-title="Local-Kurdish",Local- Astera Sport
+http://188.72.4.230:8000/mytv/My1p@9090/249
+#EXTINF:-1 tvg-id="" tvg-name="Local- Biaban Family" tvg-logo="" group-title="Local-Kurdish",Local- Biaban Family
+http://188.72.4.230:8000/mytv/My1p@9090/244
+#EXTINF:-1 tvg-id="" tvg-name="Local- Biaban Movies HD" tvg-logo="" group-title="Local-Kurdish",Local- Biaban Movies HD
+http://188.72.4.230:8000/mytv/My1p@9090/243
+#EXTINF:-1 tvg-id="" tvg-name="Local- Chara TV HD" tvg-logo="" group-title="Local-Kurdish",Local- Chara TV HD
+http://188.72.4.230:8000/mytv/My1p@9090/233
+#EXTINF:-1 tvg-id="" tvg-name="Local- Dasinya Sport" tvg-logo="" group-title="Local-Kurdish",Local- Dasinya Sport
+http://188.72.4.230:8000/mytv/My1p@9090/218
+#EXTINF:-1 tvg-id="" tvg-name="Local- Democracy" tvg-logo="" group-title="Local-Kurdish",Local- Democracy
+http://188.72.4.230:8000/mytv/My1p@9090/234
+#EXTINF:-1 tvg-id="" tvg-name="Local- Effect TV" tvg-logo="" group-title="Local-Kurdish",Local- Effect TV
+http://188.72.4.230:8000/mytv/My1p@9090/246
+#EXTINF:-1 tvg-id="" tvg-name="Local- IMovies HD" tvg-logo="" group-title="Local-Kurdish",Local- IMovies HD
+http://188.72.4.230:8000/mytv/My1p@9090/247
+#EXTINF:-1 tvg-id="" tvg-name="Local- Khak TV" tvg-logo="" group-title="Local-Kurdish",Local- Khak TV
+http://188.72.4.230:8000/mytv/My1p@9090/242
+#EXTINF:-1 tvg-id="" tvg-name="Local- Kurdistan S HD" tvg-logo="" group-title="Local-Kurdish",Local- Kurdistan S HD
+http://188.72.4.230:8000/mytv/My1p@9090/226
+#EXTINF:-1 tvg-id="" tvg-name="Local- NewMax Comedy HD" tvg-logo="" group-title="Local-Kurdish",Local- NewMax Comedy HD
+http://188.72.4.230:8000/mytv/My1p@9090/222
+#EXTINF:-1 tvg-id="" tvg-name="Local- NewMax HD" tvg-logo="" group-title="Local-Kurdish",Local- NewMax HD
+http://188.72.4.230:8000/mytv/My1p@9090/221
+#EXTINF:-1 tvg-id="" tvg-name="Local- Niga Family HD" tvg-logo="" group-title="Local-Kurdish",Local- Niga Family HD
+http://188.72.4.230:8000/mytv/My1p@9090/241
+#EXTINF:-1 tvg-id="" tvg-name="Local- Niga Kids TV" tvg-logo="" group-title="Local-Kurdish",Local- Niga Kids TV
+http://188.72.4.230:8000/mytv/My1p@9090/239
+#EXTINF:-1 tvg-id="" tvg-name="Local- Niga Movies HD" tvg-logo="" group-title="Local-Kurdish",Local- Niga Movies HD
+http://188.72.4.230:8000/mytv/My1p@9090/240
+#EXTINF:-1 tvg-id="" tvg-name="Local- Peshmarga TV" tvg-logo="" group-title="Local-Kurdish",Local- Peshmarga TV
+http://188.72.4.230:8000/mytv/My1p@9090/219
+#EXTINF:-1 tvg-id="" tvg-name="Local- Qalat TV" tvg-logo="" group-title="Local-Kurdish",Local- Qalat TV
+http://188.72.4.230:8000/mytv/My1p@9090/230
+#EXTINF:-1 tvg-id="" tvg-name="Local- Rasan HD" tvg-logo="" group-title="Local-Kurdish",Local- Rasan HD
+http://188.72.4.230:8000/mytv/My1p@9090/231
+#EXTINF:-1 tvg-id="" tvg-name="Local- Reng Document HD" tvg-logo="" group-title="Local-Kurdish",Local- Reng Document HD
+http://188.72.4.230:8000/mytv/My1p@9090/235
+#EXTINF:-1 tvg-id="" tvg-name="Local- Reng HD" tvg-logo="" group-title="Local-Kurdish",Local- Reng HD
+http://188.72.4.230:8000/mytv/My1p@9090/236
+#EXTINF:-1 tvg-id="" tvg-name="Local- Saudi Sunnah" tvg-logo="" group-title="Local-Kurdish",Local- Saudi Sunnah
+http://188.72.4.230:8000/mytv/My1p@9090/225
+#EXTINF:-1 tvg-id="" tvg-name="Local- U TV HD" tvg-logo="" group-title="Local-Kurdish",Local- U TV HD
+http://188.72.4.230:8000/mytv/My1p@9090/228
+#EXTINF:-1 tvg-id="" tvg-name="Local- UTV Slemani" tvg-logo="" group-title="Local-Kurdish",Local- UTV Slemani
+http://188.72.4.230:8000/mytv/My1p@9090/224
+#EXTINF:-1 tvg-id="" tvg-name="Local- Xezan HD" tvg-logo="" group-title="Local-Kurdish",Local- Xezan HD
+http://188.72.4.230:8000/mytv/My1p@9090/232
+#EXTINF:-1 tvg-id="" tvg-name="Local- Zar TV" tvg-logo="" group-title="Local-Kurdish",Local- Zar TV
+http://188.72.4.230:8000/mytv/My1p@9090/229
+#EXTINF:-1 tvg-id="" tvg-name="Local- Zed TV HD" tvg-logo="" group-title="Local-Kurdish",Local- Zed TV HD
+http://188.72.4.230:8000/mytv/My1p@9090/248
+#EXTINF:-1 tvg-id="" tvg-name="Tr- Fox TV HD" tvg-logo="" group-title="Turkish",Tr- Fox TV HD
+http://188.72.4.230:8000/mytv/My1p@9090/259
+#EXTINF:-1 tvg-id="" tvg-name="Tr- Show TV HD" tvg-logo="" group-title="Turkish",Tr- Show TV HD
+http://188.72.4.230:8000/mytv/My1p@9090/260
+#EXTINF:-1 tvg-id="" tvg-name="Tr- TRT Muzic HD" tvg-logo="" group-title="Turkish",Tr- TRT Muzic HD
+http://188.72.4.230:8000/mytv/My1p@9090/258
+#EXTINF:-1 tvg-id="" tvg-name="Uk- Sky 1" tvg-logo="" group-title="UK",Uk- Sky 1
+http://188.72.4.230:8000/mytv/My1p@9090/213
+#EXTINF:-1 tvg-id="" tvg-name="Uk- Sky 2" tvg-logo="" group-title="UK",Uk- Sky 2
+http://188.72.4.230:8000/mytv/My1p@9090/212
+#EXTINF:-1 tvg-id="" tvg-name="Uk- Sky 4 Music" tvg-logo="" group-title="UK",Uk- Sky 4 Music
+http://188.72.4.230:8000/mytv/My1p@9090/183
+#EXTINF:-1 tvg-id="" tvg-name="Uk- Sky 5 USA" tvg-logo="" group-title="UK",Uk- Sky 5 USA
+http://188.72.4.230:8000/mytv/My1p@9090/182
+#EXTINF:-1 tvg-id="" tvg-name="Uk- Sky Animal Planet HD" tvg-logo="" group-title="UK",Uk- Sky Animal Planet HD
+http://188.72.4.230:8000/mytv/My1p@9090/181
+#EXTINF:-1 tvg-id="" tvg-name="Uk- Sky Arts 1 HD" tvg-logo="" group-title="UK",Uk- Sky Arts 1 HD
+http://188.72.4.230:8000/mytv/My1p@9090/185
+#EXTINF:-1 tvg-id="" tvg-name="Uk- Sky Atlantic" tvg-logo="" group-title="UK",Uk- Sky Atlantic
+http://188.72.4.230:8000/mytv/My1p@9090/184
+#EXTINF:-1 tvg-id="" tvg-name="Uk- Sky BBC Four HD" tvg-logo="" group-title="UK",Uk- Sky BBC Four HD
+http://188.72.4.230:8000/mytv/My1p@9090/203
+#EXTINF:-1 tvg-id="" tvg-name="UK- Sky BBC News" tvg-logo="" group-title="UK",UK- Sky BBC News
+http://188.72.4.230:8000/mytv/My1p@9090/207
+#EXTINF:-1 tvg-id="" tvg-name="Uk- Sky BBC One HD" tvg-logo="" group-title="UK",Uk- Sky BBC One HD
+http://188.72.4.230:8000/mytv/My1p@9090/206
+#EXTINF:-1 tvg-id="" tvg-name="Uk- Sky BBC Three HD" tvg-logo="" group-title="UK",Uk- Sky BBC Three HD
+http://188.72.4.230:8000/mytv/My1p@9090/204
+#EXTINF:-1 tvg-id="" tvg-name="Uk- Sky BBC Two HD" tvg-logo="" group-title="UK",Uk- Sky BBC Two HD
+http://188.72.4.230:8000/mytv/My1p@9090/205
+#EXTINF:-1 tvg-id="" tvg-name="Uk- Sky BT Sport 1 HD" tvg-logo="" group-title="UK",Uk- Sky BT Sport 1 HD
+http://188.72.4.230:8000/mytv/My1p@9090/200
+#EXTINF:-1 tvg-id="" tvg-name="Uk- Sky BT Sport 2 HD" tvg-logo="" group-title="UK",Uk- Sky BT Sport 2 HD
+http://188.72.4.230:8000/mytv/My1p@9090/199
+#EXTINF:-1 tvg-id="" tvg-name="Uk- Sky BT Sport 3 HD" tvg-logo="" group-title="UK",Uk- Sky BT Sport 3 HD
+http://188.72.4.230:8000/mytv/My1p@9090/198
+#EXTINF:-1 tvg-id="" tvg-name="Uk- Sky BT Sports Extra 1" tvg-logo="" group-title="UK",Uk- Sky BT Sports Extra 1
+http://188.72.4.230:8000/mytv/My1p@9090/197
+#EXTINF:-1 tvg-id="" tvg-name="Uk- Sky BT Sports Extra 2" tvg-logo="" group-title="UK",Uk- Sky BT Sports Extra 2
+http://188.72.4.230:8000/mytv/My1p@9090/196
+#EXTINF:-1 tvg-id="" tvg-name="Uk- Sky Discovery" tvg-logo="" group-title="UK",Uk- Sky Discovery
+http://188.72.4.230:8000/mytv/My1p@9090/180
+#EXTINF:-1 tvg-id="" tvg-name="Uk- Sky Discovery History" tvg-logo="" group-title="UK",Uk- Sky Discovery History
+http://188.72.4.230:8000/mytv/My1p@9090/179
+#EXTINF:-1 tvg-id="" tvg-name="Uk- Sky Discovery Science" tvg-logo="" group-title="UK",Uk- Sky Discovery Science
+http://188.72.4.230:8000/mytv/My1p@9090/178
+#EXTINF:-1 tvg-id="" tvg-name="Uk- Sky Discovery Shed" tvg-logo="" group-title="UK",Uk- Sky Discovery Shed
+http://188.72.4.230:8000/mytv/My1p@9090/177
+#EXTINF:-1 tvg-id="" tvg-name="Uk- Sky Disney Junior HD" tvg-logo="" group-title="UK",Uk- Sky Disney Junior HD
+http://188.72.4.230:8000/mytv/My1p@9090/176
+#EXTINF:-1 tvg-id="" tvg-name="Uk- Sky Disney XD HD" tvg-logo="" group-title="UK",Uk- Sky Disney XD HD
+http://188.72.4.230:8000/mytv/My1p@9090/175
+#EXTINF:-1 tvg-id="" tvg-name="Uk- Sky Eurosport 1 HD" tvg-logo="" group-title="UK",Uk- Sky Eurosport 1 HD
+http://188.72.4.230:8000/mytv/My1p@9090/195
+#EXTINF:-1 tvg-id="" tvg-name="Uk- Sky Eurosport 2 HD" tvg-logo="" group-title="UK",Uk- Sky Eurosport 2 HD
+http://188.72.4.230:8000/mytv/My1p@9090/194
+#EXTINF:-1 tvg-id="" tvg-name="Uk- Sky Food Network" tvg-logo="" group-title="UK",Uk- Sky Food Network
+http://188.72.4.230:8000/mytv/My1p@9090/174
+#EXTINF:-1 tvg-id="" tvg-name="Uk- Sky Good Food HD" tvg-logo="" group-title="UK",Uk- Sky Good Food HD
+http://188.72.4.230:8000/mytv/My1p@9090/187
+#EXTINF:-1 tvg-id="" tvg-name="Uk- Sky ITV 1" tvg-logo="" group-title="UK",Uk- Sky ITV 1
+http://188.72.4.230:8000/mytv/My1p@9090/211
+#EXTINF:-1 tvg-id="" tvg-name="Uk- Sky ITV 2" tvg-logo="" group-title="UK",Uk- Sky ITV 2
+http://188.72.4.230:8000/mytv/My1p@9090/210
+#EXTINF:-1 tvg-id="" tvg-name="Uk- Sky ITV 3" tvg-logo="" group-title="UK",Uk- Sky ITV 3
+http://188.72.4.230:8000/mytv/My1p@9090/209
+#EXTINF:-1 tvg-id="" tvg-name="Uk- Sky ITV 4" tvg-logo="" group-title="UK",Uk- Sky ITV 4
+http://188.72.4.230:8000/mytv/My1p@9090/208
+#EXTINF:-1 tvg-id="" tvg-name="Uk- Sky Movies 24" tvg-logo="" group-title="UK",Uk- Sky Movies 24
+http://188.72.4.230:8000/mytv/My1p@9090/186
+#EXTINF:-1 tvg-id="" tvg-name="Uk- Sky Movies Action HD" tvg-logo="" group-title="UK",Uk- Sky Movies Action HD
+http://188.72.4.230:8000/mytv/My1p@9090/189
+#EXTINF:-1 tvg-id="" tvg-name="Uk- Sky Nat Geo Wild HD" tvg-logo="" group-title="UK",Uk- Sky Nat Geo Wild HD
+http://188.72.4.230:8000/mytv/My1p@9090/173
+#EXTINF:-1 tvg-id="" tvg-name="Uk- Sky National Geographic HD" tvg-logo="" group-title="UK",Uk- Sky National Geographic HD
+http://188.72.4.230:8000/mytv/My1p@9090/172
+#EXTINF:-1 tvg-id="" tvg-name="Uk- Sky RTE One" tvg-logo="" group-title="UK",Uk- Sky RTE One
+http://188.72.4.230:8000/mytv/My1p@9090/188
+#EXTINF:-1 tvg-id="" tvg-name="Uk- Sky Sport Football" tvg-logo="" group-title="UK",Uk- Sky Sport Football
+http://188.72.4.230:8000/mytv/My1p@9090/192
+#EXTINF:-1 tvg-id="" tvg-name="Uk- Sky Sports Action HD" tvg-logo="" group-title="UK",Uk- Sky Sports Action HD
+http://188.72.4.230:8000/mytv/My1p@9090/191
+#EXTINF:-1 tvg-id="" tvg-name="Uk- Sky Sports Box Office HD" tvg-logo="" group-title="UK",Uk- Sky Sports Box Office HD
+http://188.72.4.230:8000/mytv/My1p@9090/190
+#EXTINF:-1 tvg-id="" tvg-name="Uk- Sky Sports Main Event HD" tvg-logo="" group-title="UK",Uk- Sky Sports Main Event HD
+http://188.72.4.230:8000/mytv/My1p@9090/193
+#EXTINF:-1 tvg-id="" tvg-name="Uk- Sky True Movies 1" tvg-logo="" group-title="UK",Uk- Sky True Movies 1
+http://188.72.4.230:8000/mytv/My1p@9090/202
+#EXTINF:-1 tvg-id="" tvg-name="Uk- Sky True Movies 2" tvg-logo="" group-title="UK",Uk- Sky True Movies 2
+http://188.72.4.230:8000/mytv/My1p@9090/201
+#EXTINF:-1 tvg-id="" tvg-name="De- Arte HD" tvg-logo="" group-title="Germany",De- Arte HD
+http://188.72.4.230:8000/mytv/My1p@9090/252
+#EXTINF:-1 tvg-id="" tvg-name="De- RTL" tvg-logo="" group-title="Germany",De- RTL
+http://188.72.4.230:8000/mytv/My1p@9090/253
+#EXTINF:-1 tvg-id="" tvg-name="De- VOX HD" tvg-logo="" group-title="Germany",De- VOX HD
+http://188.72.4.230:8000/mytv/My1p@9090/254
+#EXTINF:-1 tvg-id="" tvg-name="De- ZDF" tvg-logo="" group-title="Germany",De- ZDF
+http://188.72.4.230:8000/mytv/My1p@9090/257
+#EXTINF:-1 tvg-id="" tvg-name="De- ZDF info HD" tvg-logo="" group-title="Germany",De- ZDF info HD
+http://188.72.4.230:8000/mytv/My1p@9090/255
+#EXTINF:-1 tvg-id="" tvg-name="De- ZDF Neo" tvg-logo="" group-title="Germany",De- ZDF Neo
+http://188.72.4.230:8000/mytv/My1p@9090/256
+#EXTINF:-1 tvg-id="" tvg-name="Fr- Arte HD" tvg-logo="" group-title="French",Fr- Arte HD
+http://188.72.4.230:8000/mytv/My1p@9090/217
+#EXTINF:-1 tvg-id="" tvg-name="Fr- Discovery channel HD" tvg-logo="" group-title="French",Fr- Discovery channel HD
+http://188.72.4.230:8000/mytv/My1p@9090/215
+#EXTINF:-1 tvg-id="" tvg-name="Fr- National Geo HD" tvg-logo="" group-title="French",Fr- National Geo HD
+http://188.72.4.230:8000/mytv/My1p@9090/214
+#EXTINF:-1 tvg-id="" tvg-name="Fr- Planete  CI HD" tvg-logo="" group-title="French",Fr- Planete  CI HD
+http://188.72.4.230:8000/mytv/My1p@9090/216
+#EXTINF:-1 tvg-id="" tvg-name="Fi- MTV3 HD" tvg-logo="" group-title="Finland",Fi- MTV3 HD
+http://188.72.4.230:8000/mytv/My1p@9090/299
+#EXTINF:-1 tvg-id="" tvg-name="VOD- A Vigilante - 2019" tvg-logo="http://www.vod-logo.net/photos/73681b2a60dfb425c069d41179eb73cf.jpg" group-title="VOD 2019",VOD- A Vigilante - 2019
+http://188.72.4.230:8000/movie/mytv/My1p@9090/385.mp4
+#EXTINF:-1 tvg-id="" tvg-name="VOD- Aquaman - 2019" tvg-logo="http://www.vod-logo.net/photos/c91389f69c1446869ce8ce74f49319e5.jpg" group-title="VOD 2019",VOD- Aquaman - 2019
+http://188.72.4.230:8000/movie/mytv/My1p@9090/386.mp4
+#EXTINF:-1 tvg-id="" tvg-name="VOD- I Hate Kids - 2019" tvg-logo="http://www.vod-logo.net/photos/33be2b0500c1e3dc251538426e8f9970.jpg" group-title="VOD 2019",VOD- I Hate Kids - 2019
+http://188.72.4.230:8000/movie/mytv/My1p@9090/392.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vod- Kedba Bidaa - 2019" tvg-logo="http://www.vod-logo.net/photos/292b5e11d62346a2718e3877d023cb7d.jpg" group-title="VOD 2019",Vod- Kedba Bidaa - 2019
+http://188.72.4.230:8000/movie/mytv/My1p@9090/383.mp4
+#EXTINF:-1 tvg-id="" tvg-name="VOD- Replicas - 2019" tvg-logo="http://www.vod-logo.net/photos/0b8fbc6f0342c12793ea8108b0e81ca1.jpg" group-title="VOD 2019",VOD- Replicas - 2019
+http://188.72.4.230:8000/movie/mytv/My1p@9090/387.mp4
+#EXTINF:-1 tvg-id="" tvg-name="VOD- Serenity - 2019" tvg-logo="http://www.vod-logo.net/photos/e80361328e30d445e5be0325f521c101.jpg" group-title="VOD 2019",VOD- Serenity - 2019
+http://188.72.4.230:8000/movie/mytv/My1p@9090/384.mp4
+#EXTINF:-1 tvg-id="" tvg-name="VOD- The Mule -  2019" tvg-logo="http://www.vod-logo.net/photos/281af8637d9bbbb1fdd39bc93a4c7496.jpg" group-title="VOD 2019",VOD- The Mule -  2019
+http://188.72.4.230:8000/movie/mytv/My1p@9090/391.mp4
+#EXTINF:-1 tvg-id="" tvg-name="VOD- The Upside - 2019" tvg-logo="http://www.vod-logo.net/photos/2a31dfa88e0468dccea8f35a198532e7.jpg" group-title="VOD 2019",VOD- The Upside - 2019
+http://188.72.4.230:8000/movie/mytv/My1p@9090/388.mp4
+#EXTINF:-1 tvg-id="" tvg-name="VOD- Velvet Buzzsaw - 2019" tvg-logo="http://www.vod-logo.net/photos/6734347c59c437409af48ee32a0abe0d.jpg" group-title="VOD 2019",VOD- Velvet Buzzsaw - 2019
+http://188.72.4.230:8000/movie/mytv/My1p@9090/390.mp4
+#EXTINF:-1 tvg-id="" tvg-name="VOD- Vice - 2019" tvg-logo="http://www.vod-logo.net/photos/35c3a4a8926a46a26509c5d19e28dbdc.jpg" group-title="VOD 2019",VOD- Vice - 2019
+http://188.72.4.230:8000/movie/mytv/My1p@9090/389.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Series- Breaking Bad S00 E01" tvg-logo="http://m-iptv.net:6204/images/1yeVJox3rjo2jBKrrihIMj7uoS9_small.jpg" group-title="Series",Series- Breaking Bad S00 E01
+http://188.72.4.230:8000/series/mytv/My1p@9090/393.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Series- Breaking Bad S00 E02" tvg-logo="http://m-iptv.net:6204/images/1yeVJox3rjo2jBKrrihIMj7uoS9_small.jpg" group-title="Series",Series- Breaking Bad S00 E02
+http://188.72.4.230:8000/series/mytv/My1p@9090/394.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Series- Breaking Bad S00 E03" tvg-logo="http://m-iptv.net:6204/images/1yeVJox3rjo2jBKrrihIMj7uoS9_small.jpg" group-title="Series",Series- Breaking Bad S00 E03
+http://188.72.4.230:8000/series/mytv/My1p@9090/395.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Series- Vikings S00 E01" tvg-logo="http://m-iptv.net:6204/images/94gP9uXNdbypwCLORjeurlad15Z_small.jpg" group-title="Series",Series- Vikings S00 E01
+http://188.72.4.230:8000/series/mytv/My1p@9090/396.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Series- Vikings S00 E02" tvg-logo="http://m-iptv.net:6204/images/94gP9uXNdbypwCLORjeurlad15Z_small.jpg" group-title="Series",Series- Vikings S00 E02
+http://188.72.4.230:8000/series/mytv/My1p@9090/397.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Series- Vikings S00 E03" tvg-logo="http://m-iptv.net:6204/images/94gP9uXNdbypwCLORjeurlad15Z_small.jpg" group-title="Series",Series- Vikings S00 E03
+http://188.72.4.230:8000/series/mytv/My1p@9090/398.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Series- Vikings S00 E04" tvg-logo="http://m-iptv.net:6204/images/94gP9uXNdbypwCLORjeurlad15Z_small.jpg" group-title="Series",Series- Vikings S00 E04
+http://188.72.4.230:8000/series/mytv/My1p@9090/399.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Series- Vikings S00 E05" tvg-logo="http://m-iptv.net:6204/images/94gP9uXNdbypwCLORjeurlad15Z_small.jpg" group-title="Series",Series- Vikings S00 E05
+http://188.72.4.230:8000/series/mytv/My1p@9090/400.mkv
